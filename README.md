@@ -1,4 +1,11 @@
-# Dev Learning Lab 🧠
+# Dev Learning Lab
+
+![Repo Status](https://img.shields.io/badge/status-active-brightgreen)
+![Last Commit](https://img.shields.io/github/last-commit/amandaknightkc/coding-reference)
+![Language](https://img.shields.io/badge/code-Python-blue)
+![Editor](https://img.shields.io/badge/built%20with-VS%20Code-purple)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Made with ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4-red)
 
 Welcome to my personal learning lab — a curated collection of notes, setup guides, and mini-projects as I deepen my skills in Python, SQL, MySQL, WSL, and related tools.
 
@@ -16,7 +23,7 @@ It’s not meant to be polished — just practical.
 
 ## 🔧 Contents
 
-### `/docs/`
+### `notes/`
 
 Reference guides, environment setup instructions, and cheat sheets:
 
@@ -25,7 +32,7 @@ Reference guides, environment setup instructions, and cheat sheets:
 - `python-cheat-sheet.md` – Handy Python syntax and library notes
 - `vscode_wsl_config.md` – VS Code integration with WSL
 
-### `/projects/`
+### `sandbox/`
 
 Small practice scripts and exercises:
 
@@ -33,9 +40,9 @@ Small practice scripts and exercises:
 - `basic_bar.py` – Basic matplotlib example
 - `my_numpy_learn.py` – Playing with NumPy arrays
 
-### `/reference_materials/`  
+### `notes_reference/`
 
-Placeholder for external documentation or reading material.
+My notes and external documentation or reading material.
 
 ---
 
