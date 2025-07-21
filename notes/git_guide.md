@@ -110,7 +110,7 @@ rm -rf .git
 git init
 ```
 
-# git vs gh
+## GitHub CLI vs git
 
 ## git - Core Git Version Control Tool
 
@@ -140,6 +140,7 @@ git init
 | `gh issue list`  | View issues on a GitHub repo                  |
 | `gh auth login`  | Authenticate with GitHub (via browser or SSH) |
 | `gh gist create` | Create a GitHub Gist                          |
+| `gh auth status` | Check login status
 
 ## Bonus
 
