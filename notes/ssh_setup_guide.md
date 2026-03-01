@@ -59,8 +59,6 @@ git remote -v
 If it shows HTTPS like:
 
 ```bash
-If it shows HTTPS like:
-```bash
 https://github.com/your-username/repo-name.git
 ```
 
